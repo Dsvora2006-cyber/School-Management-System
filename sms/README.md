@@ -136,7 +136,7 @@ http://localhost/sms/
 
 | Role | Username / ID / Email | Password |
 | :--- | :--- | :--- |
-| **Super Admin** | `jeel` / `jeel@gmail.COM | `123` |
+| **Super Admin** | `jeel` / jeel@gmail.com | `123` |
 | **System Admin** | `harshil` / `harshil@gmail.com` | `123` |
 | **Teacher** | `TCH-1` / `TCH-2026-4819` | `123` |
 | **Student** | `APX-1` / `APX-2026-9481` | `123` |
