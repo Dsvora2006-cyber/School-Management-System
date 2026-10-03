@@ -136,12 +136,17 @@ http://localhost/sms/
 
 | Role | Username / ID / Email | Password |
 | :--- | :--- | :--- |
-| **Super Admin** | `darvora575` / `darvora575@gmail.com` | `2642006` |
+| **Super Admin** | `jeel` / `jeel@gmail.COM | `123` |
 | **System Admin** | `harshil` / `harshil@gmail.com` | `123` |
-| **Teacher** | `sarah.j@apexacademy.com` / `TCH-2026-4819` | `teacher123` |
-| **Student** | `liam@example.com` / `APX-2026-9481` | `student123` |
+| **Teacher** | `TCH-1` / `TCH-2026-4819` | `123` |
+| **Student** | `APX-1` / `APX-2026-9481` | `123` |
 
 ---
+
+You can any time change the passwords using forgot password.
+Student email id:- Student enrollment number is student login email id
+Teacher email id:-teacher Id  is teacher id is teacher login email id
+
 
 ## 📁 Project Directory Structure
 
